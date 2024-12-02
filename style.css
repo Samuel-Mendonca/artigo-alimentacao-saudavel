@@ -60,6 +60,7 @@ h1, h2 {
 
 p, li {
   font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: justify;
 }
 
 p {
@@ -125,6 +126,7 @@ button:hover {
 }
 
 .copy {
+  text-align: center;
   font-size: 1rem;
   margin-top: 2rem;
 }
